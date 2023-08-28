@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    background-color: rgb(207, 93, 0);
+    justify-content: center;
+    padding: 10px;
+}
+
+.logo{
+    margin: 0;
+    font-size: 60px;
+    color: white;
+}
+
+.logo:hover{
+    color: rgb(223, 223, 223);
+    cursor: pointer;
+}
+
+.link{
+    text-decoration: none;
+}
